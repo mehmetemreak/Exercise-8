@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+#yellow {
+    order: -3;
+}
+
+#red {
+    order: -2;
+}
+
+#orange {
+    flex: 3;
+}
